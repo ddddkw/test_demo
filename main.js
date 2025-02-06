@@ -137,4 +137,4 @@ class Compiler {
     }
 }
 // 创建一个Compiler实例
-new Compiler(options).run();
+// new Compiler(options).run();

@@ -10,16 +10,25 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "mini-css-extract-plugin": "^2.9.2",
+    "postcss": "^8.5.1",
+    "postcss-loader": "^8.1.1",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.7.3",
     "webpack": "^5.97.1"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
+    "@babel/eslint-parser": "^7.26.5",
     "@babel/parser": "^7.26.5",
     "@babel/preset-env": "^7.26.0",
     "@babel/traverse": "^7.26.5",
     "babel-loader": "^9.2.1",
+    "eslint": "^8.0.0",
+    "eslint-webpack-plugin": "^4.2.0",
     "html-webpack-plugin": "^5.6.3",
     "webpack-cli": "^6.0.1",
-    "webpack-dev-server": "^5.2.0"
+    "webpack-dev-server": "^4.15.2"
   }
 }

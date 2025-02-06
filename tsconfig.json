@@ -1,0 +1,6 @@
+{
+  "compilerOptions": { // ts文件编译时的一些配置
+    "noImplicitAny": true,
+    "moduleResolution": "Node" // 指定模块的解析策略
+  }
+}
